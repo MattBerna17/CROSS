@@ -1,0 +1,10 @@
+{"configuration": {
+		"server": {
+			"ip": "127.0.0.1",
+			"tcpPort": 9999,
+			"udpPort": 8888
+		},
+		"timeout": 10000,
+		"soTimeout": 30000
+	}
+}

@@ -1,0 +1,16 @@
+{"configuration": {
+		"tcpPort": 9999,
+		"udpPort": 8888,
+		"threadpool": {
+			"coreSize": 10,
+			"maxSize": 100,
+			"keepAlive": 500
+		},
+		"files": {
+			"ordersInput": "./issuedOrders.json",
+			"ordersOutput": "./issuedOrders.json",
+			"usersInput": "./users.json",
+			"usersOutput": "./users.json"
+		}
+	}
+}
