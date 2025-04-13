@@ -75,5 +75,3 @@ Synchronization is ensured using Java's `synchronized` blocks when accessing sha
 
 ## 📁 Project Structure
 The `config/` folder contains the main configuration files and the `client.sh` and `server.sh` execution bash scripts, meanwhile the `src/` folder contains the source code files.
-
---
